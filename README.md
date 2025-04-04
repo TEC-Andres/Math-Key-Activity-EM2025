@@ -14,5 +14,5 @@ python main.py
 ```
 
 **References**
-E. Huerta., F. Dominguez., & MORE. (2025). Solids of revolution 3D bottle rendering. Retrieved from https://www.desmos.com/3d/oq2dmy47vq
-Python. (2025). Welcome to Python.org. Retrieved from https://www.python.org/
+- E. Huerta., F. Dominguez., & MORE. (2025). Solids of revolution 3D bottle rendering. Retrieved from https://www.desmos.com/3d/oq2dmy47vq
+- Python. (2025). Welcome to Python.org. Retrieved from https://www.python.org/
