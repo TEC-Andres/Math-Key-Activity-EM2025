@@ -18,5 +18,7 @@ python main.py
 ```
 
 **References**
-- E. Huerta., F. Dominguez., & MORE. (2025). Solids of revolution 3D bottle rendering. Retrieved from https://www.desmos.com/3d/oq2dmy47vq
-- Python. (2025). Welcome to Python.org. Retrieved from https://www.python.org/
+- E. Huerta., F. Dominguez., & MORE. (2025). _Solids of revolution 3D bottle rendering_. Retrieved from https://www.desmos.com/3d/oq2dmy47vq
+- Python. (2025). _Welcome to Python.org_. Retrieved from https://www.python.org/
+- Sympy. (2025). _Sympy_. Retrieved from https://www.sympy.org/en/index.html
+- Mpmath. (2025). _Setting up mpmath_. Retrieved from https://mpmath.org/doc/current/setup.html
